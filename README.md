@@ -57,9 +57,6 @@ In main.py, four command line arguments can be specified
 | --epochs, -e | Number of epochs | 150 |
 | --bach_size, -b | Size of each image batch | 8 |
 
-# Note
-I don't test environments under Linux and Mac.
-
 # Author
 * AtsuhitoNishimura
  
